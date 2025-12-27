@@ -1,6 +1,6 @@
 {
   "name": "cloudrun-github-actions-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Cloud Run FastAPI Test with Docker and GitHub Actions",
   "scripts": {
     "docker:build": "docker build -t cloudrun-github-actions-test .",
